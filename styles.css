@@ -15,10 +15,10 @@ margin-left: 20px;
 }
 
 .header-image {
-background: url(azi.jpg);
-background-repeat: repeat;
+background: url(beachYoga2.JPG);
+background-repeat: no-repeat;
 background-size: auto;
-height: 400px;
+height: 800px;
 }
 
 .header-banner {
