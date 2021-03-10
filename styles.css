@@ -3,43 +3,43 @@ margin: 0;
 }
 
 .img-content p {
-float: right;
-width: 70%;
-/*padding-top: 40px;*/
+  float: right;
+  width: 70%;
+  /*padding-top: 40px;*/
 }
 
 .img-content img {
-width: 20%;
-border-radius: 100%;
-margin-left: 20px;
+  width: 20%;
+  border-radius: 100%;
+  margin-left: 20px;
 }
 
 .header-image {
-background: url(beachYoga2.JPG);
-background-repeat: no-repeat;
-background-size: auto;
-height: 800px;
+  background: url(beachYoga2.JPG);
+  background-repeat: no-repeat;
+  background-size: auto;
+  height: 800px;
 }
 
 .header-banner {
-background-color: #009688;
-padding: 10px 5px;
-color: #fff;
-margin-bottom: 50px;
+  background-color: #009688;
+  padding: 10px 5px;
+  color: #fff;
+  margin-bottom: 50px;
 }
 
 .header-image h1 {
-font-size: 48px;
-color: #000;
-font-weight: bold;
-text-align: center;
-padding-top: 8%;
+  font-size: 48px;
+  color: #000;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 8%;
 }
 
 .header-image p {
-font-size: 32px;
-color: #fff;
-text-align: center;
+  font-size: 32px;
+  color: #fff;
+  text-align: center;
 }
 
 .sidebar {
